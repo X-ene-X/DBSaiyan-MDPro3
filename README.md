@@ -10,9 +10,8 @@ See the README for full list. All 33 cards from 21000001 to 21000034 with correc
 
 ### Via URL (Recommended)
 1. MDPro3 → Settings → Expansions → Download Custom Card Pack
-2. Paste one of these direct URLs:
-   - Release asset (permanent): `https://github.com/X-ene-X/DBSaiyan-MDPro3/releases/download/v1.1/Saiyan-v1.1.ypk`
-   - Raw (living): `https://raw.githubusercontent.com/X-ene-X/DBSaiyan-MDPro3/main/Saiyan.ypk`
+2. Paste this direct URL:
+   - Release asset (permanent): `https://github.com/X-ene-X/DBSaiyan-MDPro3/releases/download/YPK/Saiyan-v1.1.ypk`
 3. Download → Restart MDPro3 → Deck Editor → Filter → Custom
 
 ### Manual
