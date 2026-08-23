@@ -13,8 +13,8 @@ See YGO Omega README for full list. All 33 cards from 21000001 to 21000034 (2100
 ### Via URL (Recommended)
 1. MDPro3 → Settings → Expansions → Download Custom Card Pack
 2. Paste one of these direct URLs:
-   - Release asset (permanent): `https://github.com/<YourName>/DBSaiyan-MDPro3/releases/download/v1.1/Saiyan-v1.1.ypk`
-   - Raw (living): `https://raw.githubusercontent.com/<YourName>/DBSaiyan-MDPro3/main/Saiyan.ypk`
+   - Release asset (permanent): `https://github.com/X-ene-X/DBSaiyan-MDPro3/releases/download/v1.1/Saiyan-v1.1.ypk`
+   - Raw (living): `https://raw.githubusercontent.com/X-ene-X/DBSaiyan-MDPro3/main/Saiyan.ypk`
 3. Download → Restart MDPro3 → Deck Editor → Filter → Custom
 
 ### Manual
