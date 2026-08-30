@@ -2,16 +2,19 @@
 
 Custom 33-card "Saiyan" archetype (Setcode `0x4442`) for MDPro3. Fully scripted, 624×624 art, ypk bundle.
 
-## Card List (33) — Same as the YGO Omega pack. ( https://github.com/X-ene-X/DBSaiyan-Omega )
+## Card List (33) — Same as YGO Omega
 
-See the README for full list. All 33 cards from 21000001 to 21000034 with corrected attributes (Broly Earth, SS3 Fire, Ultra Ego Dark, SSB Wind, Gotenks Water, Masked Saiyan Dark, SS Broly Earth, SUI/MUI Light).
+See YGO Omega README for full list. All 33 cards from 21000001 to 21000034 (21000030 deleted) with corrected attributes (Broly Earth, SS3 Fire, Ultra Ego Dark, SSB Wind, Gotenks Water, Masked Saiyan Dark, SS Broly Earth, SUI/MUI Light).
+
+*V1.1: MUI now searches Tournament of Power. Saiyan Rage removed for balance.*
 
 ## Installation
 
 ### Via URL (Recommended)
 1. MDPro3 → Settings → Expansions → Download Custom Card Pack
-2. Paste this direct URL:
-   - Release asset (permanent): `https://github.com/X-ene-X/DBSaiyan-MDPro3/releases/download/YPK/Saiyan-v1.1.ypk`
+2. Paste one of these direct URLs:
+   - Release asset (permanent): `https://github.com/X-ene-X/DBSaiyan-MDPro3/releases/download/v1.1/Saiyan-v1.1.ypk`
+   - Raw (living): `https://raw.githubusercontent.com/X-ene-X/DBSaiyan-MDPro3/main/Saiyan.ypk`
 3. Download → Restart MDPro3 → Deck Editor → Filter → Custom
 
 ### Manual
